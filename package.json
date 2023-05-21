@@ -1,0 +1,26 @@
+{
+  "name": "project-2022",
+  "version": "1.0.0",
+  "description": "project ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-redis": "^7.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "express-handlebars-paginate": "^1.0.3",
+    "express-session": "^1.17.3",
+    "express-validator": "^7.0.1",
+    "pg": "^8.11.0",
+    "pg-hstore": "^2.3.4",
+    "redis": "^4.6.6",
+    "sequelize": "^6.31.1",
+    "sequelize-cli": "^6.6.0",
+    "sqlite3": "^5.1.6"
+  }
+}
